@@ -1,0 +1,101 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "productCode": "PROD-001",
+            "productName": "San pham A",
+            "description": "Mô tả sản phẩm A",
+            "category": "Thể loại 1",
+            "price": 100000,
+            "quantity": 50,
+            "dateAdded": "2024-01-15"
+        },
+        {
+            "id": "2",
+            "productCode": "PROD-002",
+            "productName": "San pham B",
+            "description": "Mô tả sản phẩm B",
+            "category": "Thể loại 2",
+            "price": 200000,
+            "quantity": 30,
+            "dateAdded": "2024-02-20"
+        },
+        {
+            "id": "3",
+            "productCode": "PROD-003",
+            "productName": "San pham C",
+            "description": "Mô tả sản phẩm C",
+            "category": "Thể loại 1",
+            "price": 150000,
+            "quantity": 20,
+            "dateAdded": "2024-03-05"
+        },
+        {
+            "id": "3b3b",
+            "productCode": "PROD-004",
+            "productName": "San pham D",
+            "description": "Mtsp4",
+            "category": "Thể loại 1",
+            "price": "1000",
+            "quantity": "20",
+            "dateAdded": "2024-09-23"
+        },
+        {
+            "id": "cc27",
+            "productCode": "PROD-005",
+            "productName": "San pham F",
+            "description": "Mtsp6",
+            "category": "Thể loại 2",
+            "price": "2000",
+            "quantity": "10",
+            "dateAdded": "2024-09-29"
+        },
+        {
+            "id": "6523",
+            "productCode": "PROD-006",
+            "productName": "San pham G",
+            "description": "Mtsp6",
+            "category": "Thể loại 3",
+            "price": "2000",
+            "quantity": "10",
+            "dateAdded": "2024-09-25"
+        },
+        {
+            "id": "b323",
+            "productCode": "PROD-007",
+            "productName": "San pham H",
+            "description": "Mtsp7",
+            "category": "Thể loại 2",
+            "price": "2000",
+            "quantity": "10",
+            "dateAdded": "2024-09-17"
+        },
+        {
+            "id": "4ba4",
+            "productCode": "PROD-008",
+            "productName": "San pham K",
+            "description": "Mtsp8",
+            "category": "Thể loại 1",
+            "price": "2000",
+            "quantity": "10",
+            "dateAdded": "2024-09-23"
+        }
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "categoryName": "Thể loại 1",
+            "description": "Mô tả thể loại 1"
+        },
+        {
+            "id": "2",
+            "categoryName": "Thể loại 2",
+            "description": "Mô tả thể loại 2"
+        },
+        {
+            "id": "3",
+            "categoryName": "Thể loại 3",
+            "description": "Mô tả thể loại 3"
+        }
+    ]
+}
